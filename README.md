@@ -1,7 +1,11 @@
 
 # 🛡️ SafeTech Insights
 ### Sentiment Analysis of Personal Safety Application Reviews
+### 🚀 Live Demo
 
+Try the SafeTech Insights sentiment analysis app:
+
+🔗 [Launch SafeTech Insights]([https://safetech-insights.streamlit.app/](https://safetech-insights.streamlit.app/))
 ## Project Overview
 SafeTech Insights is a Natural Language Processing (NLP) and Machine Learning project that analyzes user reviews of personal safety applications.
 
